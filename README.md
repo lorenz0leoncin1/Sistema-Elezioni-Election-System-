@@ -57,7 +57,7 @@ The project involves the development of an electronic voting and scrutiny system
 # Complete Documentation and Diagrams
 
 ## Documentation PDF
-The comprehensive project documentation, including diagrams following the design pattern, is available in the PDF file `gruppo_Capelli_Leoncini.pdf`. The file contains detailed information on the analysis and design of the system.
+The comprehensive project documentation, entirely in Italian, including diagrams following the design pattern, is available in the PDF file `gruppo_Capelli_Leoncini.pdf`. The file contains detailed information on the analysis and design of the system.
 
 ## Available Diagrams
 The PDF includes the following diagrams:
