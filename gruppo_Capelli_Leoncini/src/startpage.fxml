@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerStartPage">
+   <children>
+      <Button fx:id="BtnAdmin" layoutX="157.0" layoutY="276.0" mnemonicParsing="false" onAction="#handleAdmin" prefHeight="51.0" prefWidth="287.0" text="AMMINISTRATORE">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="BtnElettore" layoutX="231.0" layoutY="149.0" mnemonicParsing="false" onAction="#handleElettore" text="ELETTORE">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Label layoutX="153.0" layoutY="49.0" text="SCEGLIERE IL TIPO DI LOG IN" textAlignment="CENTER">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

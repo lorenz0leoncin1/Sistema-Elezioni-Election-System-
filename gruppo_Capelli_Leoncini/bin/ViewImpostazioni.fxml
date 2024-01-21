@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane fx:id="PaneCreazione" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="625.0" prefWidth="923.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerViewImpostazioni">
+   <children>
+      <TabPane fx:id="TabPaneCreazione" layoutY="-1.0" prefHeight="625.0" prefWidth="923.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="Creazione Votazione">
+            <content>
+              <AnchorPane fx:id="Creazione_Votazione" minHeight="0.0" minWidth="0.0" prefHeight="583.0" prefWidth="878.0">
+                     <children>
+                        <ChoiceBox fx:id="ChoiceVictoryMode" layoutX="611.0" layoutY="220.0" prefHeight="25.0" prefWidth="233.0" />
+                        <Text layoutX="657.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Inserire Titolo della Votazione" />
+                        <Text layoutX="652.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Selezionare modalità di voto" />
+                        <ChoiceBox fx:id="ChoiceVoteMode" layoutX="612.0" layoutY="314.0" prefHeight="25.0" prefWidth="233.0" />
+                        <Button fx:id="Btn_CreaVotazione" layoutX="654.0" layoutY="433.0" mnemonicParsing="false" onAction="#CreaVotazioneClick" prefHeight="96.0" prefWidth="150.0" text="Crea Votazione" />
+                        <ListView fx:id="LstViewCandidati" disable="true" layoutX="65.0" layoutY="56.0" prefHeight="450.0" prefWidth="387.0" />
+                        <Text fx:id="lblSelectCandidato" layoutX="193.0" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SELEZIONA CANDIDATO" />
+                        <Button fx:id="BtnCandidati" layoutX="195.0" layoutY="516.0" mnemonicParsing="false" onAction="#BtnCandidati_Click" prefHeight="38.0" prefWidth="127.0" text="InserisciCandidati" />
+                        <Text layoutX="657.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Selezionare modalità di vittoria" />
+                        <TextField fx:id="TextBoxTitolo" layoutX="612.0" layoutY="99.0" prefHeight="25.0" prefWidth="230.0" />
+                        <Text layoutX="65.0" layoutY="578.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NB: Tenere premuto CTRL + Tasto sinistro per selezionare più Candidati" />
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="TerminazioneScrutinio" text="Teriminazione Scrutinio">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ChoiceBox fx:id="ChoiceVotazioneDaTerminare" layoutX="347.0" layoutY="211.0" prefHeight="65.0" prefWidth="229.0" />
+                        <Button fx:id="Btn_TerminaVotazione" layoutX="391.0" layoutY="393.0" mnemonicParsing="false" onAction="#TerminaVotazioneCLick" prefHeight="44.0" prefWidth="141.0" text="TERMINA" />
+                        <Text layoutX="307.0" layoutY="336.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Premere qui per terminare la Votazione ed avviare lo Scrutinio" textAlignment="CENTER" wrappingWidth="309.1953125">
+                           <font>
+                              <Font size="21.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+            <Tab fx:id="VisualizzaRisultati" text="Visualizza Risultati">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ChoiceBox fx:id="ChoiceVotazioneVincitore" layoutX="373.0" layoutY="228.0" prefHeight="36.0" prefWidth="178.0" />
+                        <Text layoutX="138.0" layoutY="101.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Selezionare la Votazione di cui si vuole vedere il risultato">
+                           <font>
+                              <Font size="26.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="Btn_VediVincitore" layoutX="286.0" layoutY="292.0" mnemonicParsing="false" onAction="#VisualizzaVincitoreClick" prefHeight="31.0" prefWidth="351.0" text="VISUALIZZA VINCITORE">
+                           <font>
+                              <Font size="29.0" />
+                           </font>
+                        </Button>
+                        <Text fx:id="TxtVincitore" fill="#13b521" layoutX="276.0" layoutY="482.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="372.0">
+                           <font>
+                              <Font size="45.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</Pane>

@@ -1,0 +1,84 @@
+
+Selezione amministratore Start Page  01-02-2022 16:24:49
+Selezione amministratore Start Page  01-02-2022 16:36:49
+Accesso login come amministratore: 1 01-02-2022 16:36:51
+Inserimento Candidati 01-02-2022 16:37:11
+Votazione creata 01-02-2022 16:37:16
+Selezione elettore Start Page  01-02-2022 16:37:21
+Accesso login come elettore: 1 01-02-2022 16:37:22
+Votazione Selezionata 01-02-2022 16:37:25
+Voto Avvenuto1 01-02-2022 16:37:34
+Voto Avvenuto1 01-02-2022 16:37:36
+Votazione terminata e scrutinio avviato 01-02-2022 16:37:46
+Visualizzazione del vincitore 01-02-2022 16:37:48
+Selezione elettore Start Page  01-02-2022 16:38:54
+Accesso login come elettore: 1 01-02-2022 16:38:56
+Votazione Selezionata 01-02-2022 16:39:00
+Voto Avvenuto1 01-02-2022 16:39:05
+Selezione elettore Start Page  01-02-2022 18:49:31
+Accesso login come elettore: 1 01-02-2022 18:49:33
+Votazione Selezionata 01-02-2022 18:49:41
+Voto Avvenuto1 01-02-2022 18:49:43
+Selezione amministratore Start Page  01-02-2022 18:50:08
+Selezione elettore Start Page  01-02-2022 18:50:15
+Accesso login come elettore: laurabianchi@gmail.com 01-02-2022 18:52:22
+Votazione Selezionata 01-02-2022 18:52:24
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:29
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:33
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:33
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:33
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:34
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:34
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:35
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:36
+Votazione Selezionata 01-02-2022 18:52:40
+Voto Avvenutolaurabianchi@gmail.com 01-02-2022 18:52:45
+Selezione elettore Start Page  01-02-2022 18:53:38
+Accesso login come elettore: 1 01-02-2022 18:53:40
+Votazione Selezionata 01-02-2022 18:53:42
+Modifica Ordine Candidati 01-02-2022 18:53:44
+Modifica Ordine Candidati 01-02-2022 18:53:45
+Voto Avvenuto1 01-02-2022 18:53:46
+Selezione elettore Start Page  01-02-2022 18:54:40
+Accesso login come elettore: 1 01-02-2022 18:54:42
+Votazione Selezionata 01-02-2022 18:54:45
+Modifica Ordine Candidati 01-02-2022 18:54:47
+Modifica Ordine Candidati 01-02-2022 18:54:48
+Voto Avvenuto1 01-02-2022 18:54:50
+Selezione elettore Start Page  01-02-2022 18:58:21
+Accesso login come elettore: 1 01-02-2022 18:58:23
+Votazione Selezionata 01-02-2022 18:58:25
+Modifica Ordine Candidati 01-02-2022 18:58:28
+Modifica Ordine Candidati 01-02-2022 18:58:29
+Voto Avvenuto1 01-02-2022 18:58:30
+Selezione elettore Start Page  01-02-2022 19:02:01
+Accesso login come elettore: 1 01-02-2022 19:02:02
+Votazione Selezionata 01-02-2022 19:02:04
+Modifica Ordine Candidati 01-02-2022 19:02:05
+Modifica Ordine Candidati 01-02-2022 19:02:07
+Voto Avvenuto1 01-02-2022 19:02:08
+Selezione elettore Start Page  01-02-2022 19:05:58
+Accesso login come elettore: 1 01-02-2022 19:06:00
+Votazione Selezionata 01-02-2022 19:06:01
+Modifica Ordine Candidati 01-02-2022 19:06:03
+Modifica Ordine Candidati 01-02-2022 19:06:04
+Voto Avvenuto1 01-02-2022 19:06:04
+Selezione elettore Start Page  01-02-2022 19:09:24
+Accesso login come elettore: 1 01-02-2022 19:09:25
+Votazione Selezionata 01-02-2022 19:09:27
+Modifica Ordine Candidati 01-02-2022 19:09:29
+Modifica Ordine Candidati 01-02-2022 19:09:30
+Voto Avvenuto1 01-02-2022 19:09:31
+Selezione elettore Start Page  01-02-2022 19:37:51
+Accesso login come elettore: 1 01-02-2022 19:37:53
+Selezione elettore Start Page  01-02-2022 19:38:14
+Accesso login come elettore: 1 01-02-2022 19:38:16
+Votazione Selezionata 01-02-2022 19:38:19
+Modifica Ordine Candidati 01-02-2022 19:38:21
+Modifica Ordine Candidati 01-02-2022 19:38:23
+Modifica Ordine Candidati 01-02-2022 19:38:29
+Voto Avvenuto1 01-02-2022 19:38:36
+Selezione amministratore Start Page  01-02-2022 19:39:27
+Accesso login come amministratore: 1 01-02-2022 19:39:29
+Votazione terminata e scrutinio avviato 01-02-2022 19:39:34
+Visualizzazione del vincitore 01-02-2022 19:39:37
